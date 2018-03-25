@@ -1,0 +1,11 @@
+body {
+	margin-top: 100px;
+	background-color: #dff9fb;
+}
+h1, h2 {
+	text-align: center;
+}
+.btn, .list {
+	display: flex;
+	justify-content: center;
+}
